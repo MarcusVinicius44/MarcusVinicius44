@@ -18,9 +18,8 @@
 
 <p align="center">
   <a href="https://github.com/MarcusVinicius44/LucraFood"><img src="assets/project-lucrafood.svg" alt="LucraFood" width="32.5%"/></a>
-  <a href="https://github.com/MarcusVinicius44/NeuroGuia"><img src="assets/project-neuroguia.svg" alt="NeuroGuia" width="32.5%"/></a>
-  <a href="https://github.com/MarcusVinicius44/VitalMen"><img src="assets/project-vitalmen.svg" alt="VitalMen" width="32.5%"/></a>
-</p>
+  <a href="https://github.com/MarcusVinicius44/MentorMatch"><img src="assets/project-mentormatch.svg" alt="MentorMatch" width="32.5%"/></a>
+  <a href="https://github.com/MarcusVinicius44/CleanGit"><img src="assets/project-cleangit.svg" alt="CleanGit" width="32.5%"/></a></p>
 
 <img src="assets/h-04-activity.svg" alt="04 activity" width="100%"/>
 <img src="assets/stats.svg" alt="GitHub activity in the last year" width="100%"/>
