@@ -1,16 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 200" width="350" height="200" role="img" aria-label="NeuroGuia project">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 200" width="350" height="200" role="img" aria-label="MentorMatch project">
   <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#0BD400" stroke-opacity=".05"/></pattern></defs>
   <rect width="350" height="200" rx="14" fill="#050505"/>
   <rect width="350" height="200" rx="14" fill="url(#grid)"/>
   <rect x=".5" y=".5" width="349" height="199" rx="14" fill="none" stroke="#0BD400" stroke-opacity=".25"/>
 <text x="28" y="40" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#0BD400" fill-opacity=".8">// project</text>
   <path d="M304 34 l14 -14 m-9 0 h9 v9" fill="none" stroke="#0BD400" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="28" y="74" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="700" fill="#F0F0F0">Mentor Match</text>
-  <text x="28" y="104" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">Mentor Match connects those just starting out</text>
-  <text x="28" y="125" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">with experienced developers who are at the same event for a </text>
-  <text x="28" y="146" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">15-minute coffee chat. Gemini explains why each pair is a good match</text>
-  <text x="28" y="167" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">and suggests a topic for conversation.</text>
-  <rect x="28" y="156" width="72" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="39" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="50" lengthAdjust="spacing">Flutter</text>
-  <rect x="108" y="156" width="51" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="119" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="29" lengthAdjust="spacing">Dart</text>
-  <rect x="167" y="156" width="65" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="178" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="43" lengthAdjust="spacing">Mobile</text>
+  <text x="28" y="74" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="700" fill="#F0F0F0">MentorMatch</text>
+  <text x="28" y="104" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">Pairs newcomers with experienced</text>
+  <text x="28" y="125" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">devs at one event for a 15-min</text>
+  <text x="28" y="146" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">coffee chat. Gemini explains why.</text>
+  <rect x="28" y="156" width="72" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="39" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="50" lengthAdjust="spacing">Next.js</text>
+  <rect x="108" y="156" width="80" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="119" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="58" lengthAdjust="spacing">Firebase</text>
+  <rect x="196" y="156" width="65" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="207" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="43" lengthAdjust="spacing">Gemini</text>
 </svg>
