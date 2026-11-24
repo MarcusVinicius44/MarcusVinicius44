@@ -5,10 +5,11 @@
   <rect x=".5" y=".5" width="349" height="199" rx="14" fill="none" stroke="#0BD400" stroke-opacity=".25"/>
 <text x="28" y="40" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#0BD400" fill-opacity=".8">// project</text>
   <path d="M304 34 l14 -14 m-9 0 h9 v9" fill="none" stroke="#0BD400" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="28" y="74" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="700" fill="#F0F0F0">NeuroGuia</text>
-  <text x="28" y="104" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">Mobile app that supports</text>
-  <text x="28" y="125" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">neurodivergent people with</text>
-  <text x="28" y="146" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">routine and focus.</text>
+  <text x="28" y="74" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="700" fill="#F0F0F0">Mentor Match</text>
+  <text x="28" y="104" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">Mentor Match connects those just starting out</text>
+  <text x="28" y="125" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">with experienced developers who are at the same event for a </text>
+  <text x="28" y="146" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">15-minute coffee chat. Gemini explains why each pair is a good match</text>
+  <text x="28" y="167" font-family="Poppins,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13.5" fill="#aaaaaa">and suggests a topic for conversation.</text>
   <rect x="28" y="156" width="72" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="39" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="50" lengthAdjust="spacing">Flutter</text>
   <rect x="108" y="156" width="51" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="119" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="29" lengthAdjust="spacing">Dart</text>
   <rect x="167" y="156" width="65" height="24" rx="6" fill="#0a0f0a" stroke="#0BD400" stroke-opacity=".32"/><text x="178" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#F0F0F0" textLength="43" lengthAdjust="spacing">Mobile</text>
