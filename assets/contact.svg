@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 286" width="1100" height="286" role="img" aria-label="Contact">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#0BD400" stroke-opacity=".05"/></pattern></defs>
+  <rect width="1100" height="286" rx="14" fill="#050505"/>
+  <rect width="1100" height="286" rx="14" fill="url(#grid)"/>
+  <rect x=".5" y=".5" width="1099" height="285" rx="14" fill="none" stroke="#0BD400" stroke-opacity=".25"/>
+  <circle cx="36" cy="26" r="6" fill="#0BD400"/>
+  <circle cx="58" cy="26" r="6" fill="#0BD400" fill-opacity=".5"/>
+  <circle cx="80" cy="26" r="6" fill="#0BD400" fill-opacity=".22"/>
+  <text x="550" y="31" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#7a7a7a">marcus@dev: ~</text>
+  <rect x="0" y="52" width="1100" height="1" fill="#0BD400" fill-opacity=".2"/>
+  <text x="48" y="100" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17"><tspan fill="#0BD400">marcus@dev</tspan><tspan fill="#7a7a7a">:~$ </tspan><tspan fill="#F0F0F0">./contact.sh</tspan></text>
+  <text x="48" y="140" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#7a7a7a">status</text><circle cx="195" cy="134" r="5" fill="#0BD400"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle><text x="212" y="140" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17"><tspan fill="#0BD400" font-weight="700">open to freelance projects</tspan></text>
+  <text x="48" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#7a7a7a">email</text><text x="190" y="172" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17"><tspan fill="#F0F0F0">marcusvvinicius2017@gmail.com</tspan></text>
+  <text x="48" y="204" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#7a7a7a">linkedin</text><text x="190" y="204" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17"><tspan fill="#F0F0F0">linkedin.com/in/marcus-vinicius44</tspan></text>
+  <text x="48" y="236" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" fill="#7a7a7a">portfolio</text><text x="190" y="236" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17"><tspan fill="#F0F0F0">devmarcus.vercel.app</tspan></text>
+</svg>

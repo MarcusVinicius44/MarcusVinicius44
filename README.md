@@ -2,63 +2,35 @@
 
 <img src="assets/banner.svg" alt="Marcus Vinicius - Full Stack Developer" width="100%"/>
 
-<br/>
-
-<a href="https://devmarcus.vercel.app"><img src="https://img.shields.io/badge/Portfolio-devmarcus.vercel.app-0BD400?style=for-the-badge&logo=vercel&logoColor=0BD400&labelColor=0a0f0a" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/marcus-vinicius44"><img src="https://img.shields.io/badge/LinkedIn-marcus--vinicius44-0BD400?style=for-the-badge&logo=linkedin&logoColor=0BD400&labelColor=0a0f0a" alt="LinkedIn"/></a>
-<a href="https://lucrafood.vercel.app"><img src="https://img.shields.io/badge/Live_demo-LucraFood-0BD400?style=for-the-badge&logo=vercel&logoColor=0BD400&labelColor=0a0f0a" alt="LucraFood demo"/></a>
+<a href="https://devmarcus.vercel.app"><img src="assets/btn-portfolio.svg" alt="Open portfolio" height="44"/></a>
+<a href="https://www.linkedin.com/in/marcus-vinicius44"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
+<a href="https://lucrafood.vercel.app"><img src="assets/btn-lucrafood.svg" alt="LucraFood demo" height="44"/></a>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/h-01-about.svg" alt="01 about" width="100%"/>
+<img src="assets/about.svg" alt="About: Full Stack Developer from Brazil. I build web systems and business software with Python/Django, React/TypeScript and MySQL, and I'm learning to bring generative AI into real products." width="100%"/>
 
-## `// 01 about`
+<img src="assets/h-02-stack.svg" alt="02 stack" width="100%"/>
+<img src="assets/stack.svg" alt="Stack: Python, Django, Django REST Framework, React, TypeScript, JavaScript, HTML, CSS, MySQL, Git, GitHub, Docker, Vercel, NF-e/NFC-e (SEFAZ), POS integration, REST APIs, Scrum, Generative AI, LLM APIs, RAG" width="100%"/>
 
-```bash
-$ whoami
-marcus-vinicius, full stack developer, Brazil
+<img src="assets/h-03-projects.svg" alt="03 projects" width="100%"/>
 
-$ cat now.txt
--> ERP for supermarkets: pricing, promotions and tax modules
--> LucraFood: menu photo in, dish cost and margin out (live demo)
--> Learning to ship generative AI inside real products
-```
-
-I like software that runs a real operation: stock that adds up, prices that are right, invoices that clear the tax authority. I work with **Django REST** and **React + TypeScript**, and I learn by building, measuring the result and checking what the AI actually delivers.
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## `// 02 stack`
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,mysql,docker,git,github,vercel&theme=dark" alt="stack"/>
+<p align="center">
+  <a href="https://github.com/MarcusVinicius44/LucraFood"><img src="assets/project-lucrafood.svg" alt="LucraFood" width="32.5%"/></a>
+  <a href="https://github.com/MarcusVinicius44/NeuroGuia"><img src="assets/project-neuroguia.svg" alt="NeuroGuia" width="32.5%"/></a>
+  <a href="https://github.com/MarcusVinicius44/VitalMen"><img src="assets/project-vitalmen.svg" alt="VitalMen" width="32.5%"/></a>
 </p>
 
-**Also:** REST APIs · NF-e / NFC-e with SEFAZ · POS (PDV) integration · Scrum & Trello
+<img src="assets/h-04-activity.svg" alt="04 activity" width="100%"/>
+<img src="assets/stats.svg" alt="GitHub activity in the last year" width="100%"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/h-05-contact.svg" alt="05 contact" width="100%"/>
+<img src="assets/contact.svg" alt="Contact: open to freelance projects. marcusvvinicius2017@gmail.com" width="100%"/>
 
-## `// 03 projects`
-
-<p>
-  <a href="https://github.com/MarcusVinicius44/lucrafood"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVinicius44&repo=lucrafood&bg_color=050505&title_color=0BD400&icon_color=0BD400&text_color=F0F0F0&border_color=0BD400&border_radius=8" alt="LucraFood"/></a>
-  <a href="https://github.com/MarcusVinicius44/NeuroGuia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVinicius44&repo=NeuroGuia&bg_color=050505&title_color=0BD400&icon_color=0BD400&text_color=F0F0F0&border_color=0BD400&border_radius=8" alt="NeuroGuia"/></a>
-  <a href="https://github.com/MarcusVinicius44/VitalMen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusVinicius44&repo=VitalMen&bg_color=050505&title_color=0BD400&icon_color=0BD400&text_color=F0F0F0&border_color=0BD400&border_radius=8" alt="VitalMen"/></a>
+<p align="center">
+  <a href="https://devmarcus.vercel.app"><img src="assets/btn-portfolio.svg" alt="Open portfolio" height="44"/></a>
+  <a href="https://www.linkedin.com/in/marcus-vinicius44"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"/></a>
+  <a href="mailto:marcusvvinicius2017@gmail.com"><img src="assets/btn-email.svg" alt="Send email" height="44"/></a>
+  <a href="https://lucrafood.vercel.app"><img src="assets/btn-lucrafood.svg" alt="LucraFood demo" height="44"/></a>
 </p>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## `// 04 activity`
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcusVinicius44&show_icons=true&hide_title=false&bg_color=050505&title_color=0BD400&icon_color=0BD400&text_color=F0F0F0&border_color=0BD400&border_radius=8" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusVinicius44&layout=compact&bg_color=050505&title_color=0BD400&text_color=F0F0F0&border_color=0BD400&border_radius=8" alt="Top languages"/>
-</p>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
-## `// 05 contact`
-
-Open to work:
-
-**Email:** marcusvvinicius2017@gmail.com · **Portfolio:** [devmarcus.vercel.app](https://devmarcus.vercel.app) · **LinkedIn:** [marcus-vinicius44](https://www.linkedin.com/in/marcus-vinicius44)
